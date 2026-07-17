@@ -29,7 +29,7 @@ LEFT JOIN (
     ON rs.ResourceID = edge.ResourceID
 
 WHERE
-    fcm.CollectionID = 'RS100050'
+    fcm.CollectionID = 'CT100050'
 
 ORDER BY
     edge.Version0 DESC,
