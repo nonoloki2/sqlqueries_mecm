@@ -1,5 +1,5 @@
 DECLARE @AssignmentID INT = 16792277;
-DECLARE @CollectionID NVARCHAR(20) = 'PR100618';
+DECLARE @CollectionID NVARCHAR(20) = 'CT100618';
 
 SELECT
     rs.Name0 AS ComputerName,
