@@ -1,5 +1,5 @@
 DECLARE @AssignmentID INT = 16792277;
-DECLARE @CollectionID NVARCHAR(20) = 'CT100618';
+DECLARE @CollectionID NVARCHAR(20) = 'CT1006578';
 
 WITH AssignmentInfo AS (
     SELECT
